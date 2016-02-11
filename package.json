@@ -1,0 +1,31 @@
+{
+  "name": "@vizia/obj-to-series",
+  "version": "1.0.0",
+  "description": "Transform key value pairs into x/y series, with optional metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrandwatchLtd/vizia-transform-obj-to-series.git"
+  },
+  "keywords": [
+    "series",
+    "plotly",
+    "graph"
+  ],
+  "author": "Fabien O'Carroll <fabien@brandwatch.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrandwatchLtd/vizia-transform-obj-to-series/issues"
+  },
+  "homepage": "https://github.com/BrandwatchLtd/vizia-transform-obj-to-series#readme",
+  "dependencies": {
+    "object-values": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^6.0.4",
+    "tape": "^4.4.0"
+  }
+}
