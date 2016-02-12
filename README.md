@@ -2,6 +2,8 @@
 
 Transform key value objects into x and y series data (with optional metadata) for use with graphing libraries such as plotly
 
+[![Build Status](https://travis-ci.org/BrandwatchLtd/vizia-transform-obj-to-series.svg?branch=master)](https://travis-ci.org/BrandwatchLtd/vizia-transform-obj-to-series)
+
 ### usage
 
 ```javascript
