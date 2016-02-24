@@ -16,6 +16,8 @@ var data = transform({
   'x1': 'y1',
   'x2': 'y2'
 })
+
+// data = { x: ['x1', 'x2'], y: ['y1', 'y2'], some: 'metadata' }
 ```
 
 ### api
