@@ -1,6 +1,6 @@
 {
   "name": "@vizia/obj-to-series",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform key value pairs into x/y series, with optional metadata",
   "main": "index.js",
   "scripts": {
